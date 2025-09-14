@@ -1,6 +1,9 @@
 fx_version 'adamant'
 game 'gta5'
 
+author 'DakotaSripts'
+description 'Server sided fivem weapon sounds'
+
 files {
   'audio/sfx/resident/explosions.awc',
   'audio/sfx/resident/weapons.awc',
